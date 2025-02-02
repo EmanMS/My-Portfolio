@@ -12,12 +12,10 @@ This is a portfolio website that contains my personal information, my projects, 
 Project is created with:
 * HTML
 * CSS
-* JavaScript
-
+  
 ## View the website
 To view the website, click on the link below:
 
-https://krish-depani.vercel.app/
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
